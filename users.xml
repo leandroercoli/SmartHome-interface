@@ -1,0 +1,566 @@
+<collection>
+	<user id="user1">
+		<room id="livingroom">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="tablelights">
+					<state>off</state>
+					<value>1</value>
+				</appliance>
+				<appliance id="sofalights">
+					<state>off</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="windows">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>off</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="frontdoor">
+					<state>off</state>
+				</appliance>
+				<appliance id="backdoor">
+					<state>off</state>
+				</appliance>
+		</room>
+		<room id="kitchen">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="tablelights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="backdoor">
+					<state>on</state>
+				</appliance>
+		</room>
+		<room id="masterbedroom">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="bedlights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="door">
+					<state>on</state>
+				</appliance>
+		</room>
+		<room id="bedroom2">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="bedlights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="backdoor">
+					<state>off</state>
+				</appliance>
+		</room>
+		<room id="bathroom">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="mirrorlights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+		</room>
+		<room id="garden">
+				<appliance id="lights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="windows">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="hottub">
+					<state>off</state>
+					<value>0.4</value>
+				</appliance>
+				<appliance id="sprinklers">
+					<state>off</state>
+					<value>0.4</value>
+				</appliance>
+				<appliance id="pool">
+					<state>off</state>
+				</appliance>
+		</room>
+	</user>
+	<user id="user2">
+		<room id="livingroom">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="tablelights">
+					<state>on</state>
+					<value>1</value>
+				</appliance>
+				<appliance id="sofalights">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="frontdoor">
+					<state>on</state>
+				</appliance>
+				<appliance id="backdoor">
+					<state>off</state>
+				</appliance>
+		</room>
+		<room id="kitchen">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="tablelights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="backdoor">
+					<state>on</state>
+				</appliance>
+		</room>
+		<room id="masterbedroom">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="bedlights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="door">
+					<state>on</state>
+				</appliance>
+		</room>
+		<room id="bedroom2">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="bedlights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="backdoor">
+					<state>off</state>
+				</appliance>
+		</room>
+		<room id="bathroom">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="mirrorlights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+		</room>
+		<room id="garden">
+				<appliance id="lights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="windows">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="hottub">
+					<state>off</state>
+					<value>0.4</value>
+				</appliance>
+				<appliance id="sprinklers">
+					<state>off</state>
+					<value>0.4</value>
+				</appliance>
+				<appliance id="pool">
+					<state>off</state>
+				</appliance>
+		</room>
+	</user>
+	<user id="Leandro">
+		<room id="livingroom">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="tablelights">
+					<state>off</state>
+					<value>1</value>
+				</appliance>
+				<appliance id="sofalights">
+					<state>off</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="windows">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>off</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="frontdoor">
+					<state>on</state>
+				</appliance>
+				<appliance id="backdoor">
+					<state>on</state>
+				</appliance>
+		</room>
+		<room id="kitchen">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="tablelights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="backdoor">
+					<state>on</state>
+				</appliance>
+		</room>
+		<room id="masterbedroom">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="bedlights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="door">
+					<state>on</state>
+				</appliance>
+		</room>
+		<room id="bedroom2">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="bedlights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="tv">
+					<state>on</state>
+					<value>0.5</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+				<appliance id="backdoor">
+					<state>off</state>
+				</appliance>
+		</room>
+		<room id="bathroom">
+				<appliance id="ceilinglights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="mirrorlights">
+					<state>off</state>
+					<value>0.3</value>
+				</appliance>
+				<appliance id="windows">
+					<state>on</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="thermostat">
+					<state>off</state>
+					<value>22</value>
+				</appliance>
+				<appliance id="ventilation">
+					<state>off</state>
+					<value>3</value>
+				</appliance>
+		</room>
+		<room id="garden">
+				<appliance id="lights">
+					<state>off</state>
+					<value>0.1</value>
+				</appliance>
+				<appliance id="windows">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="loudspeakers">
+					<state>off</state>
+					<value>0.7</value>
+				</appliance>
+				<appliance id="hottub">
+					<state>off</state>
+					<value>0.4</value>
+				</appliance>
+				<appliance id="sprinklers">
+					<state>off</state>
+					<value>0.4</value>
+				</appliance>
+				<appliance id="pool">
+					<state>off</state>
+				</appliance>
+		</room>
+	</user>
+</collection>
